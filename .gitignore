@@ -1,3 +1,10 @@
+# build files
+build
+*.exe
+
+# vscode config files
+.vscode
+
 # Prerequisites
 *.d
 
